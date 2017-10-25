@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Display Posts Shortcode
- * Plugin URI: https://github.com/display-wordpress-posts-shortcode/
+ * Plugin URI: https://github.com/cleancoded/display-wordpress-posts-shortcode/
  * Description: Easily display WordPress posts using the [display-posts] shortcode
  * Version: 2.9.1
  * Author: CLEANCODED
